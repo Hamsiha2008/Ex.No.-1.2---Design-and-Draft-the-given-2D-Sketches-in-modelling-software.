@@ -36,6 +36,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
+<img width="987" height="701" alt="Screenshot 2026-11-15 225325" src="https://github.com/user-attachments/assets/4b88e317-30ed-4668-a3f3-b40b62bd6cd6" />
+
  
  
  ## RESULT
